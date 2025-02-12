@@ -7,6 +7,6 @@ Run the following commands on a terminal/command prompt
 3. Run the command - npm i
 4. Run the command - npm run start
 
-you should the following output on the console - 
+you should be able to see the following output on the console - 
   WebSocket server is running...
   Server is running on port 5000
